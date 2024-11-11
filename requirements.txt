@@ -8,3 +8,4 @@ seaborn
 tensorflow
 keras
 opencv-python
+split-folders

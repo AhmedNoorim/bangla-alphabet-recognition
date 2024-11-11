@@ -7,6 +7,9 @@ git add .
 git commit -m"Text"
 git push
 
+---git pull--
+git pull origin main
+
 ---requirement.txt---
 pip install -r requirements.txt
 pip list
