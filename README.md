@@ -10,7 +10,7 @@
 │   ├── processed      <- Images after image processing
 │   └── raw            <- The original, immutable data dump
 │
-├── models             <- Trained and serialized models, model predictions, or model summaries
+├── models             <- Trained model
 │
 ├── notebooks          <- Jupyter notebooks.
 │
